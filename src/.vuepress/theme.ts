@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "cola0817/jinzhong-study-hope",
 
   docsDir: "src",
 
@@ -26,7 +26,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Power by <a href=\"https://theme-hope.vuejs.press/\" target=\"_blank\">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola",
+      footer: "Power by <a href=\"https://github.com/cola0817/jinzhong-study-hope/\" target=\"_blank\">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola",
 
       displayFooter: true,
 
@@ -45,7 +45,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "Power by <a href=\"https://theme-hope.vuejs.press/\" target=\"_blank\">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola",
+      footer: "Power by <a href=\"https://github.com/cola0817/jinzhong-study-hope/\" target=\"_blank\">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola",
 
       displayFooter: true,
 
@@ -58,8 +58,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/demo/encrypt.html": ["230817"],
+      "/zh/demo/encrypt.html": ["230817"],
     },
   },
 
@@ -67,10 +67,10 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "cola0817/jinzhong-study-hope",
+      repoId: "R_kgDOKIHB3w",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOKIHB384CYqQ3",
     },
 
     // All features are enabled for demo, only preserve features you need here

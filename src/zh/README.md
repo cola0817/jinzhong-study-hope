@@ -43,7 +43,7 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola
+footer: 使用 <a href="https://github.com/cola0817/jinzhong-study-hope" target="_blank">Mr.Cola</a> | MIT Licensed, Copyright © 2023-present Mr.Cola
 ---
 <p></p>
 
