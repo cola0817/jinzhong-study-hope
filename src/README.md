@@ -10,9 +10,12 @@ bgImageStyle:
 heroText: jinZhong study Log.
 tagline: This is a docs for jinZhong study by Cola.
 actions:
-  - text: Let us go 💡
-    link: ./demo/
+
+  - text: 中文版 💡
+    link: ./zh/study/
     type: primary
+  - text: 英文版 🥶
+    link: ./demo/
 
   - text: Docs
     link: ./guide/

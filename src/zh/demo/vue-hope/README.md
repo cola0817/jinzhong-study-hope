@@ -1,9 +1,9 @@
 ---
 title: VueHope
 index: false
-icon: laptop-code
+icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E7%BD%91%E9%A1%B5.svg
 category:
-  - 使用指南
+  - README
 ---
 
 ## 目录

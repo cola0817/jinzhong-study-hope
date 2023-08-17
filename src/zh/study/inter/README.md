@@ -1,13 +1,13 @@
 ---
 title: 学校课程
 index: false
-icon: laptop-code
+icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E5%AD%A6%E6%A0%A1.svg
 category:
-  - 使用指南
+  - README
 ---
 
 ## 目录
 
-- [数学](math)
-- [网页](web)
+- [数学](math/)
+- [网页](web/)
 

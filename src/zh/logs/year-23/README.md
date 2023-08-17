@@ -1,9 +1,9 @@
 ---
 title: year-2023
 index: false
-icon: laptop-code
+icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E5%B9%B4%E5%B9%B4%E6%9C%89%E9%B1%BC.svg
 category:
-  - 使用指南
+  - README
 ---
 
 ## 目录

@@ -1,6 +1,6 @@
 ---
 home: true
-icon: home
+icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/%E4%B8%BB%E9%A1%B5.svg
 title: 晋中学院学习记录
 heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg

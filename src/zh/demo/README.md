@@ -3,11 +3,11 @@ title: 案例
 index: false
 icon: laptop-code
 category:
-  - 使用指南
+  - README
 ---
 
 ## 目录
 
-- [vue-hope](/vue-hope)
-- [spring-boot](/spring-boot)
+- [vue-hope](vue-hope)
+- [spring](spring)
 
