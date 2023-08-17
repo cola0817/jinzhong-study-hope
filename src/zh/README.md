@@ -1,14 +1,14 @@
 ---
 home: true
 icon: home
-title: 晋中学习记录
+title: 晋中学院学习记录
 heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 晋中学习记录。
-tagline: Cola 的晋中学习记录。
+heroText: 晋中学院学习记录。
+tagline: Cola 晋中学院期间学习记录。
 actions:
   - text: 开始 💡
     link: ./demo/
