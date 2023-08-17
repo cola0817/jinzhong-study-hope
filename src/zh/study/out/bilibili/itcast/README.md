@@ -1,5 +1,5 @@
 ---
-title: 案例
+title: 黑马程序员
 index: false
 icon: laptop-code
 category:
@@ -8,6 +8,4 @@ category:
 
 ## 目录
 
-- [vue-hope](/vue-hope)
-- [spring-boot](/spring-boot)
 

@@ -1,5 +1,5 @@
 ---
-title: 案例
+title: 学校课程
 index: false
 icon: laptop-code
 category:
@@ -8,6 +8,6 @@ category:
 
 ## 目录
 
-- [vue-hope](/vue-hope)
-- [spring-boot](/spring-boot)
+- [数学](math)
+- [网页](web)
 

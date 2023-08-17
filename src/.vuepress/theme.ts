@@ -7,7 +7,8 @@ export default hopeTheme({
 
   author: {
     name: "Mr.Cola",
-    url: "https://mister-hope.com",
+    url: "https://github.com/cola0817/jinzhong-study-hope",
+    email: "cola0817jz@gmail.com"
   },
 
   iconAssets: "fontawesome-with-brands",

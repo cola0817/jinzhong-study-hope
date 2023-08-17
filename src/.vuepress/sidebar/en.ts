@@ -16,6 +16,18 @@ export const enSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
+    {
+      text: "Logs Record",
+      icon: "book",
+      prefix: "logs/",
+      children: "structure",
+    },
+    {
+      text: "study",
+      icon: "study",
+      prefix: "study/",
+      children: "structure",
+    },
     "slides",
   ],
 });

@@ -1,5 +1,5 @@
 ---
-title: 案例
+title: month-09
 index: false
 icon: laptop-code
 category:
@@ -7,7 +7,4 @@ category:
 ---
 
 ## 目录
-
-- [vue-hope](/vue-hope)
-- [spring-boot](/spring-boot)
 

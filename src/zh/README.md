@@ -11,7 +11,7 @@ heroText: 晋中学院学习记录。
 tagline: Cola 晋中学院期间学习记录。
 actions:
   - text: 开始 💡
-    link: ./demo/
+    link: ./study/
     type: primary
 
   - text: 文档
