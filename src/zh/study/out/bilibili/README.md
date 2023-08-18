@@ -10,5 +10,6 @@ category:
 
 - [黑马程序员](itcast)
 - [尚硅谷](guigu)
+- [动力节点](powernode)
 
 
