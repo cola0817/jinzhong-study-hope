@@ -3,6 +3,7 @@ title: MySQL 基础
 icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/MySQL-icon-02.svg
 category:
   - 动力节点
+  - mysql
 ---
 
 # 1、数据库概述及数据准备
