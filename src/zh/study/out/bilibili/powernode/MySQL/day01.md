@@ -1,6 +1,6 @@
 ---
 title: MySQL 基础
-icon: laptop-code
+icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/MySQL-icon-02.svg
 category:
   - 动力节点
 ---
@@ -495,7 +495,7 @@ SELECT * FROM EMP WHERE ENAME LIKE '%O%';
  SELECT * FROM EMP WHERE ENAME LIKE '_A%';
 ```
 
-::: note ike中%和下划线的差别？
+::: note Like中 % 和下划线的差别？
 
 - % 匹配任意字符出现的个数
 - 下划线只匹配一个字符
