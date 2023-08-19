@@ -1,7 +1,7 @@
 ---
 title: 动力节点
 index: false
-icon: laptop-code
+icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/power.svg
 category:
   - README
 ---
@@ -9,6 +9,7 @@ category:
 ::: info 目录
 
 - [MySQL](MySQL/)
+- [JDBC](JDBC/)
 
 :::
 

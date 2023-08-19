@@ -1,13 +1,13 @@
 ---
 title: MySQL
 index: false
-icon: laptop-code
+icon: https://jinzhong-0817-1311841992.cos.ap-nanjing.myqcloud.com/picgo/MySQL-icon-02.svg
 category:
   - README
 ---
 
 ## 目录
- - [day 01](day01.md)
+ - [MySQL 基础](day01.md)
 
 
 
